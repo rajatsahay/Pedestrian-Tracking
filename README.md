@@ -1,4 +1,4 @@
 # Pedestrian-Tracking
-Lightweiht Human Tracking System using MobileNet-SSD
+Lightweight Human Tracking System using MobileNet-SSD
 
 Output video available at: https://drive.google.com/open?id=1-NHB3rb-hGs2VkajWsoO7-k1sQCVpzoO
